@@ -73,9 +73,7 @@ This project demonstrates the use of TensorFlow.js and the MobileNet model to cl
 
 ## Author
 **Hasan Aydos**
-- Student No: 201401026
 - Recep Tayyip Erdogan University, Faculty of Engineering and Architecture, Computer Engineering Department
 - Academic Year: 2023-2024
 
-## Due Date
-06.09.2024
+
